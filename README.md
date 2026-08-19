@@ -9,4 +9,4 @@ Landing page personal desarrollada para la materia Desarrollo de Sistemas Web (F
 
 ## Enlaces
 - Repositorio: https://github.com/juanmanuelalbareda/landing-personal
-- Sitio publicado: https://landing-personal-theta.vercel.app/
+- Sitio publicado: https://landing-jmalbareda.vercel.app/
